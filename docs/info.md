@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It's just a little test project connecting some inputs to outputs via 4 logic gates. The outputs are wired to the 7-segment display.
 
 ## How to test
 
-Explain how to use your project
+Just enable either input 3 or input 5 and the 7-segment display displays a letter. Input 7 causes the display to show the dot.
 
 ## External hardware
 
